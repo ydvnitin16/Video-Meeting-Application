@@ -1,6 +1,8 @@
-# Zoomy - Video Conferencing App
+# Video Conferencing App
 
 A peer-to-peer video calling app built with React, Node.js, Socket.IO and WebRTC. Users can create a meeting room or join an existing one using a room ID.
+
+**Live Demo** https://video-meeting-application.vercel.app/signup
 
 ## How it works
 
